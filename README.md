@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Tuhama&count_private=true&show_icons=true&include_all_commits=true)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhama&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Tuhama.Tuhama)
+
 <!--
 **Tuhama/Tuhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
