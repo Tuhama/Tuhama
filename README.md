@@ -1,25 +1,32 @@
-### Hi there 👋
+# Hi, I'm Tuhama
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tuhama&count_private=true&show_icons=true&include_all_commits=true)
+**Senior Frontend Engineer** · React · TypeScript · Neu-Isenburg (Frankfurt), Germany
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+I have 18 years in software development, 8 of them in React. I led the frontend of a 12-module ERP for more than four years, and I care about clear architecture, tests and small, reviewable changes.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhama&hide=TeX)
+## What I'm building now
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Tuhama.Tuhama)
+**[Stromblick](https://stromblick-de.vercel.app)** is an open-source dashboard of the German electricity market, built on public SMARD data.
 
-<!--
-**Tuhama/Tuhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- React 19 frontend, Express and Prisma API on PostgreSQL, Docker, GitHub Actions
+- Zod schemas shared between the app and the API
+- An AI assistant (Gemini API with read-only tools) that explains a day using the dashboard's own data
+- Every decision is written down as an ADR in the repo
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is |
+| --- | --- |
+| [Stromblick](https://github.com/Tuhama/Stromblick) | Live dashboard of the German electricity market, with an AI assistant |
+| [@tuhama/translation-manager](https://github.com/Tuhama/translation-manager) | Open-source i18n management UI with AI-assisted translation (npm) |
+| [Portfolio](https://tuhama.vercel.app) | Next.js 16 site in English, Arabic and German |
+
+## Tech
+
+![](https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,postgres,prisma,docker,tailwind,java,spring,redux,jest,cypress,vitest,git,githubactions)
+
+## Open to work
+
+Frontend roles in Germany, remote or hybrid. I am open to relocating and can start immediately. English C1, German in progress.
+
+[Portfolio](https://tuhama.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tuhama-ql/)
