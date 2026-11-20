@@ -18,7 +18,7 @@ I have 18 years in software development, 8 of them in React. I led the frontend 
 | Project | What it is |
 | --- | --- |
 | [Stromblick](https://github.com/Tuhama/Stromblick) | Live dashboard of the German electricity market, with an AI assistant |
-| [@tuhama/translation-manager]([https://github.com/Tuhama/translationManager](https://www.npmjs.com/package/@tuhama/translation-manager)) | Open-source i18n management UI with AI-assisted translation (npm) |
+| [@tuhama/translation-manager](https://www.npmjs.com/package/@tuhama/translation-manager) | Open-source i18n management UI with AI-assisted translation (npm) |
 | [Portfolio](https://tuhama.vercel.app) | Next.js 16 site in English, Arabic and German |
 
 ## Tech
